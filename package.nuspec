@@ -8,7 +8,7 @@
 
     <licenseUrl>https://github.com/jburman/W8lessLabs.ScriptCS.ScriptVersions/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/jburman/W8lessLabs.ScriptCS.ScriptVersions</projectUrl>
-    <iconUrl>https://github.com/jburman/W8lessLabs.ScriptCS.ScriptVersions/blob/master/icon.png</iconUrl>
+    <iconUrl>https://github.com/jburman/W8lessLabs.ScriptCS.ScriptVersions/blob/master/build/icon.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <releaseNotes>Initial release</releaseNotes>
     <description>ScriptCS files for generating scriptversions.json at build time.</description>

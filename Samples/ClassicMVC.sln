@@ -5,6 +5,11 @@ VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassicMVC", "ClassicMVC\ClassicMVC.csproj", "{DE2EB267-9C49-4AFD-8504-41277EAA2270}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "build", "build", "{10D44D88-DCF8-450C-9F84-49E95252D97D}"
+	ProjectSection(SolutionItems) = preProject
+		build\scriptversions.cmd = build\scriptversions.cmd
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

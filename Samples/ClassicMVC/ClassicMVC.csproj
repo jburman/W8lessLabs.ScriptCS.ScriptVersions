@@ -108,7 +108,9 @@
     <Content Include="Views\web.config" />
     <Content Include="package.json" />
     <Content Include="bundleconfig.json" />
+    <Content Include="commands.json" />
     <None Include="packages.config" />
+    <Content Include="scriptversions.json" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

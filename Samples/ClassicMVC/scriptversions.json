@@ -1,0 +1,21 @@
+{
+  "LastUpdated": "2018-03-06T22:01:08.2444561-05:00",
+  "Files": {
+    "js": [
+      {
+        "Name": "vendor.min.js",
+        "Path": "scripts",
+        "Hash": "8D8E390D453591060B072F63AC7C6B28D7FCEF37",
+        "Version": 1
+      }
+    ],
+    "css": [
+      {
+        "Name": "vendor.min.css",
+        "Path": "css",
+        "Hash": "5B78016543A3D79304D901549D415FFA863EEF50",
+        "Version": 1
+      }
+    ]
+  }
+}

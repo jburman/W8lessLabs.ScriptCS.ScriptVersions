@@ -1,0 +1,16 @@
+﻿[
+  {
+    "outputFileName": "scripts/vendor.js",
+    "inputFiles": [
+      "node_modules/bootstrap/dist/js/bootstrap.js",
+      "node_modules/jquery/dist/jquery.js",
+      "node_modules/moment/min/moment.min.js"
+    ]
+  },
+  {
+    "outputFileName": "css/vendor.css",
+    "inputFiles": [
+      "node_modules/bootstrap/dist/css/bootstrap.css"
+    ]
+  }
+]

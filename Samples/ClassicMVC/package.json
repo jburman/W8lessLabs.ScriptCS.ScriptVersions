@@ -1,0 +1,9 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.3.1",
+    "moment": "^2.21.0"
+  }
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+    <metadata>
+    <id>W8lessLabs.ScriptCS.ScriptVersions</id>
+    <version>1.0.0</version>
+    <authors>Jeremy Burman</authors>
+    <owners>jeremyburman</owners>
+
+    <licenseUrl></licenseUrl>
+    <projectUrl></projectUrl>
+    <iconUrl></iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <releaseNotes>Initial release</releaseNotes>
+    <description>ScriptCS files for generating scriptversions.json at build time.</description>
+    <copyright>Copyright ©2018 Jeremy Burman</copyright>
+    <tags>scriptcs build web automation</tags>
+    </metadata>
+
+    <files>
+        <file src="scriptversions.csx" target="tools" />
+        <file src="scriptversions_util.csx" target="tools" />
+        <file src="scriptcs_packages.config" target="tools" />
+    </files>
+</package>

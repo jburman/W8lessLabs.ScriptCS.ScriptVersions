@@ -8,9 +8,21 @@
     ]
   },
   {
+    "outputFileName": "scripts/app.js",
+    "inputFiles": [
+      "scripts/main.js"
+    ]
+  },
+  {
     "outputFileName": "css/vendor.css",
     "inputFiles": [
       "node_modules/bootstrap/dist/css/bootstrap.css"
+    ]
+  },
+  {
+    "outputFileName": "css/app.css",
+    "inputFiles": [
+      "css/main.css"
     ]
   }
 ]

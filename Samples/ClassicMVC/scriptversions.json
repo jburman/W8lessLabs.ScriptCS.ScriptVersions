@@ -1,7 +1,13 @@
 {
-  "LastUpdated": "2018-03-06T22:01:08.2444561-05:00",
+  "LastUpdated": "2018-03-07T07:03:46.539419-05:00",
   "Files": {
     "js": [
+      {
+        "Name": "app.min.js",
+        "Path": "scripts",
+        "Hash": "FB16AF1F5D52A539EF413B899BA5651D8FE9C04C",
+        "Version": 1
+      },
       {
         "Name": "vendor.min.js",
         "Path": "scripts",
@@ -10,6 +16,12 @@
       }
     ],
     "css": [
+      {
+        "Name": "app.min.css",
+        "Path": "css",
+        "Hash": "FCD2D9C7A6D06E8B23BBC81ADA51A7A686B0D53D",
+        "Version": 1
+      },
       {
         "Name": "vendor.min.css",
         "Path": "css",
